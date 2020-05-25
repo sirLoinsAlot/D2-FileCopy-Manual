@@ -10,7 +10,7 @@ Please read through this file carefully and complete the instructions listed
 below, in order, to ensure the correct set up of this process. If you do not
 know what you are doing then please do not make any changes to any of the 
 files except Configuration.ps1. Make sure you read this whole file before 
-proceeding.
+proceeding and also manually back-up your save files before using this.
 
 Overview:
 I initially created these scripts to backup my PlugY save as I have it set up on
