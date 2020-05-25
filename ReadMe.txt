@@ -23,11 +23,11 @@ obsessive compulsive when it comes to my D2 game data, so while it is a little
 bit overkill, it is just the way I chose to go about it.
 
 If you wish to get in touch with me regarding these scripts you can email me
-at sirLoinsAlot@outlook.com, I will do my best to get back to you.
+at sirloinsalot@outlook.com, I will do my best to get back to you as soon as
+possible.
 
-This is a cut-down version to be ran manually. I will release the automated
-varsion that I currently use myself at a later stage, pending further testing 
-for other machines. I need to make sure it works correctly first!
+This is a cut-down version to be ran manually. There is also an automated version
+available on my gitHub if you wish to use that instead.
 
 What is Happening:
 These scripts work by first taking the files from your backup location and 
@@ -67,7 +67,7 @@ clicking it, to make sure your local files are up to date
 backed up
 
 Warning:
-If saving a backup to cloud storage you need to ensure it is fully backed up 
+If saving a backup to cloud storage you need to ensure it is fully uploaded 
 before shutting down your machine - for me this just means waiting 30 seconds.
 
 
